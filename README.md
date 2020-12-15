@@ -7,7 +7,7 @@ Front end React application that retrieves vehicle information based on license 
 After cloning the project 
 
 ``` bash
-git clone  https://github.com/YounesChellaf/Brick-yard-test
+git clone  https://github.com/YounesChellaf/Brick-yard-test.git
 ```
 
 You need to install package.json packages using 
