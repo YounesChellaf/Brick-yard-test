@@ -1,0 +1,11 @@
+@import "../../../node_modules/prismjs/themes/prism-tomorrow.css";
+@import "app";
+
+.layout {
+  background-color: #F5F6F5;
+  padding: 3%;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

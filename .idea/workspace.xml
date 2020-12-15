@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aa34f07-d1e9-4320-98ee-663fc72b0d06" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/BrickYardAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/protected.route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/feather.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/feather.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/feather.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/.sass-cache/b161be96449978188ab92f1e37bbeda94f2952ce/buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_collapse.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_toast.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/mixins/_label.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/mixins/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap-extended/mixins/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/components/wizard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/colors/_palette.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/colors/palette-gradient.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/colors/palette-noui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/colors/palette-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/layouts/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/layouts/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/layouts/_main-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/layouts/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/menu/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/menu/horizontal-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/mixins/alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/mixins/hex2rgb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/mixins/main-menu-mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/mixins/transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/variables/_components-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/core/variables/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/custom-rtl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/account-settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/app-chat.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/app-ecommerce-shop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/app-email.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/app-todo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/authentication.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/card-analytics.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/coming-soon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/dashboard-analytics.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/data-list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/error.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/faq.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/import-export.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/invoice.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/knowledge-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/timeline.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/users-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/pages/users.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/calendars/react-big-calendar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/charts/apex-charts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/context-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/drag-and-drop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/dropzone.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/maps.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/react-paginate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/react-tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/react-tour.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/recharts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/star-ratings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/sweet-alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/swiper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/extensions/toastr.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/flatpickr/flatpickr.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/react-select/_react-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/switch/react-toggle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/tags/_basic-input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/validation/form-validation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/forms/wizard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/tables/_agGridStyleOverride.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/tables/_datatables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/plugins/ui/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/themes/dark-layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scss/themes/semi-dark-layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authService/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/EditVehicle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home/VehiculeCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/misc/Error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SearchVihecule.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/home/SearchVihecule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1977">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VehiculeCard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/home/VehiculeCard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrickYardAPI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Helpers/BrickYardAPI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditVehicle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/home/EditVehicle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="protected.route.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Helpers/protected.route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/authService/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/colors.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-extended.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/scss/bootstrap-extended.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Link</find>
+      <find>App.test.js</find>
+      <find>Checkbox</find>
+      <find>this.state</find>
+      <find>show</find>
+      <find>activeTab</find>
+      <find>license</find>
+      <find>new</find>
+      <find>Mail</find>
+      <find>vuesax-logo.png</find>
+      <find>vuesax-login-bg.jpg</find>
+      <find>Save</find>
+      <find>edit</find>
+      <find>isSaved</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>this.props.vehicule</replace>
+      <replace>this.props</replace>
+      <replace>licence</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/login.js" />
+        <option value="$PROJECT_DIR$/src/searchVihecule.js" />
+        <option value="$PROJECT_DIR$/src/index.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/pages/authentication.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/.env" />
+        <option value="$PROJECT_DIR$/src/SearchVihecule.js" />
+        <option value="$PROJECT_DIR$/src/Login.js" />
+        <option value="$PROJECT_DIR$/src/assets/scss/index.scss" />
+        <option value="$PROJECT_DIR$/src/main.css" />
+        <option value="$PROJECT_DIR$/src/Helpers/RdwAPI.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/history.js" />
+        <option value="$PROJECT_DIR$/src/views/misc/404.js" />
+        <option value="$PROJECT_DIR$/src/views/misc/Error.js" />
+        <option value="$PROJECT_DIR$/src/assets/scss/core/menu/horizontal-menu.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/core/menu/_navigation.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/core/layouts/_content.scss" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/Router.js" />
+        <option value="$PROJECT_DIR$/src/views/auth/Login.js" />
+        <option value="$PROJECT_DIR$/src/Helpers/BrickYardAPI.js" />
+        <option value="$PROJECT_DIR$/src/Helpers/protected.route.js" />
+        <option value="$PROJECT_DIR$/src/authService/Login.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/colors.scss" />
+        <option value="$PROJECT_DIR$/src/assets/scss/bootstrap-extended.scss" />
+        <option value="$PROJECT_DIR$/src/views/home/EditVehicle.js" />
+        <option value="$PROJECT_DIR$/src/views/home/SearchVihecule.js" />
+        <option value="$PROJECT_DIR$/src/views/home/VehiculeCard.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="brickyards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brickyards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brickyards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brickyards" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brickyards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brickyards" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brickyards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brickyards" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=".en&#9;FILE&#9;file:///Users/issam/Desktop/brickyards/.env&#10;pa&#9;FILE&#9;file:///Users/issam/Desktop/brickyards/package.json" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/assets/scss" />
+      <recent name="$PROJECT_DIR$/src/views/home" />
+      <recent name="$PROJECT_DIR$/src/views/auth" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/node_modules" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/scss" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa34f07-d1e9-4320-98ee-663fc72b0d06" name="Default" comment="" />
+      <created>1607724983547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607724983547</updated>
+      <workItem from="1607724987165" duration="2626000" />
+      <workItem from="1607776800088" duration="58775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61401000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29283887" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2085976" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/reset-password.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/maintenance.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/maintenance-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/modern.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/lock-screen.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/knowledge-base-cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/kb-article.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/faq.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/content-img-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/500.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/4-materialize.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/eCommerce/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/1-apex.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/3-convex.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/register.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/forgot-password.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/card-img-overlay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/pages/graphic-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/logo/vuesax-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icons/doc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/img/icons/jpg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/core/menu/_navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="91" column="19" selection-end-line="476" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/core/menu/horizontal-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/core/layouts/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/history.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/misc/Error.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/auth/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logo192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/authService/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/bootstrap-extended.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Helpers/protected.route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Helpers/BrickYardAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/EditVehicle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/VehiculeCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/home/SearchVihecule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1977">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
